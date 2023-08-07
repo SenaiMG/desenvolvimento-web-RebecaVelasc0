@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=11529876)
 # Site de Indústria de Vestuário com Django
 
 Este repositório contém um projeto de site desenvolvido com Django, focado no tema da indústria de vestuário. O site utiliza tecnologias como Python, Django, HTML5, CSS3 e Bootstrap 5 para criar uma plataforma atrativa e funcional relacionada ao mundo da moda e vestuário.
