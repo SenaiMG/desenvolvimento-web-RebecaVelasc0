@@ -6,3 +6,6 @@ def index(request):
 
 def pagina(request):
     return render(request, 'index.html')
+
+def catalogo(request):
+    return render(request, 'catalogo.html')

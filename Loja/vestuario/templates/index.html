@@ -77,12 +77,15 @@
                 <img src="../static/assets/img/foto2.jpg" alt="" style="height: 500px; width: 1553; padding: 2px;">
             </div>
           </div>
-          <div class="text-center" style="padding: 5%;">
+          <div class="text-center" style="padding-top: 5%;">
             <button type="button" class="btn btn-outline-secondary btn-lg">Carregar Catálogo</button>
           </div>
           
     </div>
-
+    {% block content %}
+    {% endblock %}
     {% include 'partials/footer.html' %}
+    
+    
 </body>
 </html>
