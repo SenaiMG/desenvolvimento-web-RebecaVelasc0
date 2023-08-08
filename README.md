@@ -10,6 +10,7 @@
 2.Ativar venv:
 ```sh
    desenvolvimento-web-RebecaVelasc0> Rebeca/Scripts/activate
+   cd Loja
    ```
 3.Ativar servidor:
 ```sh
