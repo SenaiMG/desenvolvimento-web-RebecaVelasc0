@@ -61,14 +61,14 @@
             <div class="col">
                 <img src="../static/assets/img/foto1.jpg" alt="" style="height: 500px; width: 1553; padding: 2px; padding-left: 2%;">
             </div>
-            <div class="col" style="padding-left: 2%; padding-top: 2%;">
+            <div class="col" style="padding-left: 2%; padding-top: 2%;  font-family: 'Courier New', Courier, monospace; font-size: 25px;">
             <h3>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
                     standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a 
                     type specimen book</h3>
             </div>
           </div>
           <div class="row">
-            <div class="col" style="padding-left: 2%; padding-top: 2%;">
+            <div class="col" style="padding-left: 2%; padding-top: 2%; font-family: 'Courier New', Courier, monospace;font-size: 25px;">
                 <h3>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
                     standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a 
                     type specimen book</h3>
@@ -77,15 +77,12 @@
                 <img src="../static/assets/img/foto2.jpg" alt="" style="height: 500px; width: 1553; padding: 2px;">
             </div>
           </div>
-          <div class="text-center" style="padding-top: 5%;">
-            <button type="button" class="btn btn-outline-secondary btn-lg">Carregar Catálogo</button>
+          <div class="container-fluid" style="padding-top: 2%; text-align: center;">
+            <a href="http://127.0.0.1:8000/catalogo"><button type="button" class="btn btn-outline-secondary btn-lg">Carregar Catálogo</button></a>
           </div>
-          
-    </div>
+      </div>
     {% block content %}
     {% endblock %}
     {% include 'partials/footer.html' %}
-    
-    
-</body>
+  </body>
 </html>
