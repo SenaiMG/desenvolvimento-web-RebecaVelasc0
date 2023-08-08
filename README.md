@@ -3,3 +3,6 @@
 
 ## Como utilizar?
 ###  1.Clonar o repositório
+#### https://github.com/SenaiMG/desenvolvimento-web-RebecaVelasc0.git
+
+### 2.Ativar venv
