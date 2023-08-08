@@ -9,7 +9,7 @@
    ```
 2.Ativar venv:
 ```sh
-   desenvolvimento-web-RebecaVelasc0\Loja> Rebeca/Scripts/activate
+   desenvolvimento-web-RebecaVelasc0> Rebeca/Scripts/activate
    ```
 3.Ativar servidor:
 ```sh
