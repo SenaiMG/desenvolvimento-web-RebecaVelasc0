@@ -9,12 +9,12 @@
    ```
 2.Ativar venv:
 ```sh
-   desenvolvimento-web-RebecaVelasc0> Rebeca/Scripts/activate
+   desenvolvimento-web-RebecaVelasc0 > Rebeca/Scripts/activate
    cd Loja
    ```
 3.Ativar servidor:
 ```sh
-   desenvolvimento-web-RebecaVelasc0\Loja> python manage.py runserver
+   desenvolvimento-web-RebecaVelasc0\Loja > python manage.py runserver
    ```
 4.Acessar no navegador:
 ```sh
