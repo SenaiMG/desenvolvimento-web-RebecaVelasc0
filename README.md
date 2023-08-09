@@ -18,6 +18,6 @@
    ```
 4.Acessar no navegador:
 ```sh
-  http://127.0.0.1:8000/catalogo/
+  http://127.0.0.1:8000/pagina/
  ```
 
